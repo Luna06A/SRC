@@ -4,6 +4,7 @@ A desktop-based College Event Management System built using Java Swing, JDBC, an
 This project allows students to register, login, and manage college events efficiently.
 
 🚀 Features
+
 🔐 User Registration (MySQL storage)
 🔑 User Login Authentication
 🎯 Event Management (Add / View / Delete events)
@@ -18,6 +19,7 @@ JDBC (Database connectivity)
 MySQL
 OOP Concepts
 DAO Design Pattern
+
 📁 Project Structure
 src/
 │
